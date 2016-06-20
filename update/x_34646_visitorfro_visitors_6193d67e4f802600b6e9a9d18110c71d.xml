@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_34646_visitorfro_visitors">
+    <x_34646_visitorfro_visitors action="INSERT_OR_UPDATE">
+        <arrival>2016-06-20 09:39:57</arrival>
+        <car_parking>true</car_parking>
+        <car_plate>BB-YI 1223</car_plate>
+        <company display_value="ACME Africa">86c1f3193790200044e0bfc8bcbe5d95</company>
+        <contact display_value="Felix Leiter">0b6e569b133752007a0b54c32244b018</contact>
+        <first_name>Reiner</first_name>
+        <last_name>Anwender</last_name>
+        <left>2016-06-20 11:00:00</left>
+        <sys_class_name>x_34646_visitorfro_visitors</sys_class_name>
+        <sys_created_by>georg.schmid</sys_created_by>
+        <sys_created_on>2016-06-20 09:41:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6193d67e4f802600b6e9a9d18110c71d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Anwender</sys_name>
+        <sys_package display_value="VisitorFromScratch" source="x_34646_visitorfro">df9f02ba4f802600b6e9a9d18110c708</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VisitorFromScratch">df9f02ba4f802600b6e9a9d18110c708</sys_scope>
+        <sys_update_name>x_34646_visitorfro_visitors_6193d67e4f802600b6e9a9d18110c71d</sys_update_name>
+        <sys_updated_by>georg.schmid</sys_updated_by>
+        <sys_updated_on>2016-06-20 09:41:02</sys_updated_on>
+        <u_reason/>
+    </x_34646_visitorfro_visitors>
+</record_update>
