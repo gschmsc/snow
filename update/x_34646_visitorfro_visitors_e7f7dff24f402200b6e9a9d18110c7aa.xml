@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_34646_visitorfro_visitors">
+    <x_34646_visitorfro_visitors action="INSERT_OR_UPDATE">
+        <arrival>2016-06-20 14:37:48</arrival>
+        <car_parking>false</car_parking>
+        <car_plate/>
+        <company display_value="Acer">820351a1c0a8018b67c73d51c074097c</company>
+        <contact display_value="Wilhelm König">788e1ee34fff1200b6e9a9d18110c7b5</contact>
+        <first_name>Susi</first_name>
+        <last_name>Sorglos</last_name>
+        <left/>
+        <sys_class_name>x_34646_visitorfro_visitors</sys_class_name>
+        <sys_created_by>georg.schmid</sys_created_by>
+        <sys_created_on>2016-06-20 14:38:30</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e7f7dff24f402200b6e9a9d18110c7aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sorglos</sys_name>
+        <sys_package display_value="VisitorFromScratch" source="x_34646_visitorfro">df9f02ba4f802600b6e9a9d18110c708</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VisitorFromScratch">df9f02ba4f802600b6e9a9d18110c708</sys_scope>
+        <sys_update_name>x_34646_visitorfro_visitors_e7f7dff24f402200b6e9a9d18110c7aa</sys_update_name>
+        <sys_updated_by>georg.schmid</sys_updated_by>
+        <sys_updated_on>2016-06-20 14:38:30</sys_updated_on>
+        <u_reason/>
+    </x_34646_visitorfro_visitors>
+</record_update>
